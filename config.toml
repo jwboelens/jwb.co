@@ -1,0 +1,4 @@
+baseURL = "https://jwb.co"
+languageCode = "en-us"
+title = "jwb.co"
+theme = "sk1"

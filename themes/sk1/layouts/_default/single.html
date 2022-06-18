@@ -1,0 +1,19 @@
+{{define "main"}}
+
+<h1>{{.Title}}</h1>
+
+<date>
+	{{.Date.Format "Monday, Jan 2, 2006"}}
+</date>
+
+{{.Content}}
+
+
+<tags>
+	{{range (.GetTerms "tags")}}
+	<a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+	{{end}}
+</tags>
+
+
+{{end}}
