@@ -5,8 +5,6 @@ date: 2022-06-08
 tags: ["goals", "life"]
 ---
 
-# Goals for Q3 2022
-
 Here is a list of things I want to do in Q3 2022, that's July, Augustus and September.
 
 - Less Netflix / HBO Max / YouTube / Disney+
