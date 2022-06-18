@@ -1,4 +1,4 @@
-baseURL = "https://jwb.co"
+baseURL = "/"
 languageCode = "en-us"
 title = "jwb.co"
 theme = "sk1"
