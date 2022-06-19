@@ -11,6 +11,7 @@
 
 {{range $paginator.Pages}}
 
+<note>
 <date>
 	<a href="{{ .Permalink }}">{{.Date.Format "Monday, 2006-01-02"}}</a>
 </date>
@@ -22,6 +23,7 @@
 	<a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
 	{{end}}
 </tags>
+</note>
 
 {{ end }}
 
