@@ -11,10 +11,17 @@
 
 {{range $paginator.Pages}}
 
-<notes>
-  {{ .Content }}
-    <date><a href="{{ .Permalink }}">{{.Date.Format "2006-01-02"}}</a></date>
-</notes>
+<date>
+	{{.Date.Format "Monday, Jan 2, 2006"}}
+</date>
+
+{{.Content}}
+
+<tags>
+	{{range (.GetTerms "tags")}}
+	<a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+	{{end}}
+</tags>
 
 {{ end }}
 
