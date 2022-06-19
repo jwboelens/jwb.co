@@ -5,6 +5,7 @@ theme = "sk1"
 
 [permalinks]
   posts = '/:year/:month/:day/:title/'
+  notes = '/:year/:month/:day/'
 
 [markup.goldmark.renderer]
 unsafe= true
