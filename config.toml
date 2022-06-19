@@ -3,5 +3,8 @@ languageCode = "en-us"
 title = "jwb.co"
 theme = "sk1"
 
+[permalinks]
+  posts = '/:06/:1/:2/:title/'
+
 [markup.goldmark.renderer]
 unsafe= true
