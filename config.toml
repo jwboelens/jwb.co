@@ -4,7 +4,7 @@ title = "jwb.co"
 theme = "sk1"
 
 [permalinks]
-  posts = '/:06/:1/:2/:title/'
+  posts = '/:year/:month/:day/:title/'
 
 [markup.goldmark.renderer]
 unsafe= true
