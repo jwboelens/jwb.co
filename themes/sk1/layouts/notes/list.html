@@ -21,7 +21,7 @@
 <tags>
 	{{range (.GetTerms "tags")}}
 	<a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
-	{{end}} {{.Params.rating}}
+	{{end}} <div class="star" style="width:{{.Params.rating}}"></div>
 </tags>
 </note>
 
