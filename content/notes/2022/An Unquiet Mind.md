@@ -6,4 +6,4 @@ tags:
 - book
 ---
 
-Meh. ★★★
+An Unquiet Mind: A Memoir of Moods and Madness <i>by</i> Kay Redfield Jamison.  Meh. ★★★
