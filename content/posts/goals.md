@@ -1,7 +1,7 @@
 ---
 title: Goals for Q3 2022
 description: List of goals and ideas for Q3 of 2022.
-date: 2022-06-08
+date: 2022-07-07
 tags: ["goals", "life"]
 ---
 
