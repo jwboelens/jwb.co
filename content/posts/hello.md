@@ -1,7 +1,9 @@
-Title: Hello!
-Date: 2022-07-07
-Tags:
+---
+title: Hello!
+date: 2022-07-07
+tags:
 - meta
+---
 
 👋 Hi!
 
