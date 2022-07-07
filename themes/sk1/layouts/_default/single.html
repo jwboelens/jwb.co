@@ -8,12 +8,10 @@
 
 {{.Content}}
 
-
 <tags>
 	{{range (.GetTerms "tags")}}
 	<a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
 	{{end}}
 </tags>
-
 
 {{end}}
