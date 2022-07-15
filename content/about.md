@@ -7,7 +7,7 @@ Hi. I'm Jan-Willem Boelens. I have a cat named Bob. I have no need for a website
 
 I ~~hate all~~ don't have any social media.
 
-I work at <a href="https://sunrisemedical.com/">Sunrise Medical</a> where I mostly build things involving the internet.
+I work at <a href="https://sunrisemedical.com/">Sunrise Medical</a> where I like to build things involving the internet.
 
 ### Likes
 
