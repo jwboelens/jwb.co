@@ -11,11 +11,11 @@ I work at <a href="https://sunrisemedical.com/">Sunrise Medical</a> where I most
 
 ### Likes
 
-coffee / cycling / space / minimalism / photography / Star Wars (the old ones) / tea (lapsang) / home automation that works / typography
+~~coffee~~ / cycling / space / minimalism / photography / Star Wars (the old ones) / tea (lapsang) / typography
 
 ### Not likes
 
-screaming children / stuff / Star Wars (the new ones)
+screaming children / stuff
 
 ### Location
 
