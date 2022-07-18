@@ -1,5 +1,10 @@
 {{define "main"}} 
   {{ range (where .Site.Pages "Section" "posts") }}
+
+{{ range (.Data.Pages.GroupByDate "2006-01") }}
+
+<h3>{{ .Key }}</h3>
+
     {{ range .Pages }}
 
       <postlink>
@@ -9,7 +14,7 @@
           {{ .Date.Format "Jan 2, 2006" }}
         </date>
       </postlink>
-
+    {{ end }}
     {{ end }}
   {{ end }}
 {{ end }}
