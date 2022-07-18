@@ -2,7 +2,9 @@
 title: Goals for Q3 2022
 description: List of goals and ideas for Q3 of 2022.
 date: 2022-07-07
-tags: ["goals", "life"]
+tags:
+- goals
+- life
 ---
 
 Here is a list of things I want to do in Q3 2022, that's July, Augustus and September.
