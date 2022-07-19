@@ -15,6 +15,6 @@ I’ve build websites with I think every CMS available out there. The problem wi
 
 Static Site Generators are hip these days. All the hip kids are making websites with them. I’ve never understood them really, but I’ve decided to give Hugo a try.
 
-Installing Hugo and building this website took about an hour. The documentation is useless, but the forum is great.
+The documentation is useless, but the forum is great.
 
 It's hosted on GitHub and Netlify.
