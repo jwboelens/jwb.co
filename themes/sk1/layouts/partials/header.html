@@ -1,3 +1,19 @@
 <header>
-	<b><a class="logo" href="{{ "" | relLangURL}}">jwb.co</a></b> <a href="/about">about</a>
+  
+  {{ if .IsHome }}
+  
+  <nav>
+    <a href="/" class="logo">jwb.</a>
+    <a href="/about">about</a>
+    <a href="/uses">uses</a>
+  </nav>
+
+  {{ else }}
+  
+  <nav>
+    <a href="/">&#8592;</a>
+  </nav>
+
+  {{ end }}
+
 </header>
